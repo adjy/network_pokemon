@@ -23,10 +23,10 @@
 ///        ```
 ///        python3 execute.py -n 30 -t
 ///        ```
-///    - Then, in a second terminal, navigate to the "build" directory and launch node 31 without traces to test the functionalities:
-///      ```
-///      ./src/main -d ../data/peer_31/ -l nodes.txt
-///      ```
+///      - Then, in a second terminal, navigate to the "build" directory and launch node 31 without traces to test the functionalities:
+///        ```
+///        ./src/main -d ../data/peer_31/ -l nodes.txt
+///        ```
 ///    - To launch N nodes:
 ///      ```
 ///      python3 execute.py -n N -t
